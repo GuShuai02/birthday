@@ -27,7 +27,7 @@ var config = {
      */
     imgs: {
         "最爱的大宝贝": "./imgs/babyfish.png",
-        "今天是你的生日": "./imgs/birthday.jpg",
+        "心爱的小可爱": "./imgs/xiaokeai.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -38,6 +38,6 @@ var config = {
         cake_fadein: "蛋糕~",
         light_candle: "蜡烛~",
         wish_message: "大宝贝生日快乐~",
-        story: "A MESSAGE FOR YOU",
+        story: "A message for babyfish",
     }
 };
